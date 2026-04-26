@@ -1,6 +1,5 @@
 # Standardised SNEK Initiative .gitignore for C/C++ projects using Visual Studio and vcpkg
 
-# Visual Studio temporary files
 .vs/
 x64/
 x86/
@@ -28,13 +27,11 @@ ARM64/
 *.VC.VC.opendb
 *.sln.docstates
 
-# Build systems
 out/
 build/
 bin/
 obj/
 
-# Project specific users
 *.vcxproj.user
 *.vcxproj.filters.user
 
