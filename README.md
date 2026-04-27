@@ -1,5 +1,5 @@
 # SNEK_Iluvatar
-Yes I'm lazy and this was AI generated but it is correct overall.
+Yes I'm lazy and this README was AI generated but it is correct overall.
 
 A comprehensive advanced installer software solution consisting of two integrated applications: the End-User Installer and the Developer Packaging Tool.
 
